@@ -1,4 +1,4 @@
-# Informatica forense
+# <p align="center">Informatica forense</p>
 Antes de empezar con este apartado, recomiendo ver primero el apartado de ciberseguridad conceptos y csoas, ya que es una introduccion que te ayudará a en tender mejor los conceptos de cada apartado, ademas de mencionar que toda la información que vea en estos repositorios procede del curso de especializacion que he realizado en ciberseguridad.
 
 ## ¿Que es la informatica forense?
