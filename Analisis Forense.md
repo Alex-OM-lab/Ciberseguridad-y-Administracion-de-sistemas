@@ -1,5 +1,5 @@
 # <p align="center">Informatica forense</p>
-<span style="font-family:Arial; "><font size="50">Antes de empezar con este apartado, recomiendo ver primero el apartado de ciberseguridad conceptos y csoas, ya que es una introduccion que te ayudará a en tender mejor los conceptos de cada apartado, ademas de mencionar que toda la información que vea en estos repositorios procede del curso de especializacion que he realizado en ciberseguridad.</span></font>
+<span style="font-family:Arial; ">Antes de empezar con este apartado, recomiendo ver primero el apartado de ciberseguridad conceptos y csoas, ya que es una introduccion que te ayudará a en tender mejor los conceptos de cada apartado, ademas de mencionar que toda la información que vea en estos repositorios procede del curso de especializacion que he realizado en ciberseguridad.</span>
 
 ## ¿Que es la informatica forense?
 Para comenzar, la informatica forense, tambien llamada analisis forense digital, es una disciplina enfocada en la identificacion, preservacion, analiss y presentacion de evidencias digitales, comunemente se enfoncan en casoss legales y situaciones realicionada a la seguridad de la informacion.
