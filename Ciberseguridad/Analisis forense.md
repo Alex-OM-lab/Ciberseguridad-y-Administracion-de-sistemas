@@ -1,7 +1,7 @@
 # Informatica forense
 <h3 style="font-size: 20px; font-family:Arial;">Antes de empezar con este apartado, recomiendo ver primero el apartado de ciberseguridad conceptos y csoas, ya que es una introduccion que te ayudará a en tender mejor los conceptos de cada apartado, ademas de mencionar que toda la información que vea en estos repositorios procede del curso de especializacion que he realizado en ciberseguridad.</h3>
 
-<h3 style="font-size: 20px; font-family: Timesnewroman; font-weight: normal;">
+<h3 style="font-size: 20px;">
   Antes de empezar con este apartado, recomiendo ver primero el apartado de ciberseguridad conceptos y cosas, ya que es una introducción que te ayudará a entender mejor los conceptos de cada apartado, además de mencionar que toda la información que vea en estos repositorios procede del curso de especialización que he realizado en ciberseguridad.
 </h3>
 
