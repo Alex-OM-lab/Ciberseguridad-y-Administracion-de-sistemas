@@ -1,6 +1,6 @@
 # <p align="center">Informatica forense</p>
 <p style="font-family: Arial; font-size:40px;">
-<font face="Arial" size="15">Antes de empezar con este apartado, recomiendo ver primero el apartado de ciberseguridad conceptos y csoas, ya que es una introduccion que te ayudará a en tender mejor los conceptos de cada apartado, ademas de mencionar que toda la información que vea en estos repositorios procede del curso de especializacion que he realizado en ciberseguridad.</font>
+<font face="Arial" size="25">Antes de empezar con este apartado, recomiendo ver primero el apartado de ciberseguridad conceptos y csoas, ya que es una introduccion que te ayudará a en tender mejor los conceptos de cada apartado, ademas de mencionar que toda la información que vea en estos repositorios procede del curso de especializacion que he realizado en ciberseguridad.</font>
 </p>
 
 ## ¿Que es la informatica forense?
