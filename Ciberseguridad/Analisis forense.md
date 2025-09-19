@@ -50,9 +50,7 @@ A la hora de preservar las evidencias se debe hacer de forma adecuada mediante e
 para mas informacion sobre estas herramientas visita: zzzz
 ### 4. Presentar un informe de conclusiones y recomendaciones
 A la hora de presentar las conclusiones, un analista forense debe presentar un tipo de documento en concreto en el que consta las siguientes partes:
-
-###Partes de un informe de conclusiones
-
+### Partes de un informe de conclusiones
 1.
 2.
 3.
