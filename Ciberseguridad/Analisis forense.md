@@ -58,6 +58,7 @@ Para realizar un analisis forense tendremos que seguir una serie de puntos clave
 1. Estudiar el caso y determinar el rango de afección
 2. recopilar, preservar y esclareder las evidencias del caso
 3. elaborar un informe oficial
+
 A continuacion se espeficica como re realiza de forma practica cada etapa:
 para comenzar, en la recoleccion de evidencias suelen usarse herramientas como x o x, los cuales recopilan logs y x respegtivamente, como podemos ver, consiste esencialmente, en investigar cuidadosamente el sistema en si en busca de registros o elementos sospechosos como pueden ser: lineas de codigo maliciosas, correos o archivos infectados, perdida de informacion repentina o metadatos.
 
