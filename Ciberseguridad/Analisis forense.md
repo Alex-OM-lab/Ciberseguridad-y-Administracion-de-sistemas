@@ -16,28 +16,27 @@ Comenzaremos con la parte teorica del proceso y los objetivos y continuaremos co
    - [Recopilación de evidencias](#recopilacion-de-evidencias)
    - [Preservar la integridad de las evidencias](#preservar-la-integridad-de-las-evidencias)
    - [Presentar un informe de conclusiones y recomendaciones](#presentar-un-informe-de-conclusiones-y-recomendaciones)
-     
-2. [Proceso para realizar un análisis forense](#proceso-para-reaalizar-un-analisis-forense)
-   
-3. [Análisis de la línea de tiempo (TimeStamp)](#aalisis-de-la-linea-de-tiempo-timestamp)
-   
-4. [Análisis de la memoria volátil](#analisis-de-la-memoria-volatil)
 
-5. herramientas y software forense
-6. [Análisis de logs](#analisis-de-logs)
+2. [Análisis de la línea de tiempo (TimeStamp)](#aalisis-de-la-linea-de-tiempo-timestamp)
+   
+3. [Análisis de la memoria volátil](#analisis-de-la-memoria-volatil)
+
+4. [Análisis de logs](#analisis-de-logs)
    - [Tipos de logs y fuentes](#tipos-de-logs-y-fuentes)
+   
+5. herramientas y software forense
+6. [Proceso para realizar un análisis forense](#proceso-para-reaalizar-un-analisis-forense)
+   
 7. Casos practicos
    - caso 1 
    - caso 2 
    - caso 3 
 8. detalles ha tener en cuenta
-
 ## ¿Que es la informatica forense?
 Para comenzar, la informatica forense, tambien llamada analisis forense digital, es una disciplina enfocada en la identificacion, preservacion, analisis y presentación de evidencias digitales, comunemente se enfoncan en casos legales y situaciones realicionada a la seguridad de la informacion.
 
 El proposito de la informatica forense es investigar y resolver situaciones relacionadas a ciberdelitos o ataques informaticos, asi como analizar y responder de manera adecuada a los delitos y violaciones de seguridad que ocurren en el entorno digital.
 Ademas, tambien podemos destacar los siguientes objetivos:
-
 ## Objetivos de la informatica forense
 basandonos en esta definición, podemos dividir los objetivos en los siguientes puntos.
 ### 1. Identificacion de evidencias digitales
@@ -50,7 +49,6 @@ A la hora de preservar las evidencias se debe hacer de forma adecuada mediante e
 para mas informacion sobre estas herramientas visita: zzzz
 ### 4. Presentar un informe de conclusiones y recomendaciones
 A la hora de presentar las conclusiones, un analista forense debe presentar un tipo de documento en concreto en el que consta las siguientes partes:
-
 ### Partes de un informe de conclusiones
 1.
 2.
