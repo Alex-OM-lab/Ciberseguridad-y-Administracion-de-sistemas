@@ -17,24 +17,15 @@ Comenzaremos con la parte teorica del proceso y los objetivos y continuaremos co
    - [Presentar un informe de conclusiones y recomendaciones](#presentar-un-informe-de-conclusiones-y-recomendaciones)
 
 3. [Proceso para realizar un análisis forense](#proceso-para-reaalizar-un-analisis-forense)
-   - [Herramientas para](#herramientas-para)
+
 
 4. [Análisis de la línea de tiempo (TimeStamp)](#aalisis-de-la-linea-de-tiempo-timestamp)
-   - [Herramientas para](#herramientas-para-1)
 
 5. [Análisis de la memoria volátil](#analisis-de-la-memoria-volatil)
-   - [Herramientas para](#herramientas-para-2)
-
 6. [Análisis de logs](#analisis-de-logs)
    - [Tipos de logs y fuentes](#tipos-de-logs-y-fuentes)
-   - [Herramientas para](#herramientas-para-3)
   
 
-
-
-
-<font color="red">Texto en rojo</font>
-<font color="red">Texto en rojo</font>
 
 ## 📑 Índice
 
