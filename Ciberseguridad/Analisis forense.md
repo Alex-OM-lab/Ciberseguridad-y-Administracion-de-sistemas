@@ -7,8 +7,12 @@ Comenzaremos con la parte teorica del proceso y los objetivos y continuaremos co
 > [!NOTE]
 > <h3>Al final del documento se especifican 3 casos distintos con los que se realizan 3 analisis forenses distintos.</h3>
 
-## Índice de contenido
-[Objetivos de la informática forense](docs/forense.md#objetivos-de-la-informatica-forense)
+## 📑 Índice
+
+1. [Introducción](docs/introduccion.md#introducción)
+2. [Conceptos básicos](docs/conceptos.md#conceptos-básicos)
+3. [Objetivos de la informática forense](docs/forense.md#objetivos-de-la-informatica-forense)
+4. [Recursos adicionales](docs/recursos.md#recursos-adicionales)
 
 ## ¿Que es la informatica forense?
 Para comenzar, la informatica forense, tambien llamada analisis forense digital, es una disciplina enfocada en la identificacion, preservacion, analisis y presentación de evidencias digitales, comunemente se enfoncan en casos legales y situaciones realicionada a la seguridad de la informacion.
