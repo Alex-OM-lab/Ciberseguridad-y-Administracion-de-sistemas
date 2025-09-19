@@ -1,11 +1,9 @@
 # <p align="center">Informatica forense</p>
-Antes de empezar con este apartado, recomiendo ver primero el apartado de ciberseguridad conceptos y csoas, ya que es una introduccion que te ayudará a en tender mejor los conceptos de cada apartado, ademas de mencionar que toda la información que vea en estos repositorios procede del curso de especializacion que he realizado en ciberseguridad.
-
-  Antes de empezar con este apartado, recomiendo ver primero el apartado de ciberseguridad conceptos y cosas, ya que es una introducción que te ayudará a entender mejor los conceptos de cada apartado, además de mencionar que toda la información que vea en estos repositorios procede del curso de especialización que he realizado en ciberseguridad.
-
+Buenas! Antes de empezar con este apartado, recomiendo ver primero el apartado de ciberseguridad conceptos y csoas, ya que es una introduccion que te ayudará a en tender mejor los conceptos de cada apartado, ademas de mencionar que toda la información que vea en estos repositorios procede del curso de especializacion que he realizado en ciberseguridad, su obtetivo es plasmar conocimientos y asegurarme de que permanencen aqui, por si en algun momento necesito regresar a esta información.
+Dicho esto, en este apartado explico que es la informatica forese, como funciona y como se realiza un analisis forense completo, ademas de especifciar que herramientas se usan y como se emplean.
 
 ## ¿Que es la informatica forense?
-Para comenzar, la informatica forense, tambien llamada analisis forense digital, es una disciplina enfocada en la identificacion, preservacion, analiss y presentacion de evidencias digitales, comunemente se enfoncan en casoss legales y situaciones realicionada a la seguridad de la informacion.
+Para comenzar, la informatica forense, tambien llamada analisis forense digital, es una disciplina enfocada en la identificacion, preservacion, analisis y presentación de evidencias digitales, comunemente se enfoncan en casos legales y situaciones realicionada a la seguridad de la informacion.
 el proposito de la informatica forense es investigar y resolver situaciones relacionadas a ciberdelitos o ataqus informaticos, asi como analizar y responder de manera adecuada a los delitos y violaciones de seguridad que ocurren en el entorno digital.
 Ademas, tambien podemos destacar los siguientes objetivos:
 ## Objetivos de la informatica forense
@@ -20,8 +18,7 @@ A la hora de preservar las evidencias se debe hacer de forma adecuada mediante e
 para mas informacion sobre estas herramientas visita: zzzz
 ### Presentar un informe de conclusiones y recomendaciones
 A la hora de presentar las conclusiones, un analista forense debe presentar un tipo de documento en concreto en el que consta las siguientes partes:
-
-las cuales se explican a continuación:
+Partes de un informe de conclusiones
 
 ## Proceso para reaalizar un analisis forense
 
@@ -43,4 +40,9 @@ importancia del
 ### Herramientas para
 
 
+A partir de este punto, necesitaremos conocimientos extensos y concretos sobre multiples aspegtos de la informatica, trataremos unos ejemplos para que se aprecie a que me refiero concretamente.
+caso 1, las credenciales de un trabajador an sido filtradas mediante fishing, es decir, tratar de engañar al trabajador mediante correos electronicos, llamadas u otras formas de ingeñeria social con el fin de obtener las credenciales de acceso al servidor de la empresa, acto seguido, se uso este acceso para copiar la base de datos de la empresa y posteriormente eliminarla por completo, provocando grandes perdidas y daños graves a la empresa, por ultimo el ataque termina con una amenaza realizada por el ciberatacante, en la cual, nos exige una suma de dinero o nuestra base de datos con informacion privada de nuestros clientes sera publica o vendida a uan entidad muy interesada en esta información.
+Por cierto, os sorporendderia la cantidad de veces que ha ocurrido, para más información visita esta pagina "nombre", su objetivo es listar las bases de datos de empresas que han sido filtradas y liberadas al publico, es decir, han sido victimas de un ciberataque.
+En este caso, tendriamos que comenzar con una investigación en el sistema para averiguar que ha pasado, en este caso, se trata de un acceso no permitido, si bien es posible que el trabajador por si mismo reporte el mal uso de sus credenciales, es posible que dedica no comunicarlo ya que se consideraria un fallo grave del trabajador, para saber que ha ocurrido deveremos explorar los sistemas de logs, como hemos visto antes, estos sistemas se encuentran en muchos de los sistemas que se usan en la empresa, como bases de datos, acceso a internet a traves del firewall, o incluso iniciar sesion en el propio equipo ya que tanto Windows como Linux tienen sus propios registros.
+En cualquier caso, en este caso se detectaria un acceso al sistema con las credenciales de este trabajador y, acontinuacion, se realizan las acciones que hemos planteado, realizar una copia y luego borrar por completo la base de datos, estos registros serian nuestro objetivo, ademas, se consideran pruebas importantes y debe 
 ## Enlaces de interes 
