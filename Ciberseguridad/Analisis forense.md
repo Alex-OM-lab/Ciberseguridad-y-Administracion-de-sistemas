@@ -10,7 +10,7 @@ Comenzaremos con la parte teorica del proceso y los objetivos y continuaremos co
 ## 📑 Índice
 
 1. [¿Qué es la informática forense?](#que-es-la-informatica-forense)
-   - [objetivos de la informatica forense](#objetivos-de-la-informatica-forense)
+   - [Objetivos de la informatica forense](#Objetivos-de-la-informatica-forense)
    - [Identificación de evidencias digitales](#identificacion-de-evidencias-digitales)
    - [Recopilación de evidencias](#recopilacion-de-evidencias)
    - [Preservar la integridad de las evidencias](#preservar-la-integridad-de-las-evidencias)
@@ -61,7 +61,7 @@ Para comenzar, la informatica forense, tambien llamada analisis forense digital,
 El proposito de la informatica forense es investigar y resolver situaciones relacionadas a ciberdelitos o ataqus informaticos, asi como analizar y responder de manera adecuada a los delitos y violaciones de seguridad que ocurren en el entorno digital.
 Ademas, tambien podemos destacar los siguientes objetivos:
 
-## objetivos de la informatica forense
+## Objetivos de la informatica forense
 
 basandonos en esta definición, podemos dividir los objetivos en los siguientes puntos.
 ### Identificacion de evidencias digitales
