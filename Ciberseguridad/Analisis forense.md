@@ -58,7 +58,12 @@ Para realizar un analisis forense tendremos que seguir una serie de puntos clave
 1. Estudiar el caso y determinar el rango de afección
 2. recopilar, preservar y esclareder las evidencias del caso
 3. elaborar un informe oficial
-A continuacion se espeficica como re realiza de forma practica cada 
+A continuacion se espeficica como re realiza de forma practica cada etapa:
+para comenzar, en la recoleccion de evidencias suelen usarse herramientas como x o x, los cuales recopilan logs y x respegtivamente, como podemos ver, consiste esencialmente, en investigar cuidadosamente el sistema en si en busca de registros o elementos sospechosos como pueden ser: lineas de codigo maliciosas, correos o archivos infectados, perdida de informacion repentina o metadatos.
+
+Para mas informacion sobre los metadatos visita el siguiente enlace "". Pero en resumen, son rastros de datos que deja por ejemplo una foto, pudiendo ser la fecha, ubicacion, o modelo de camara, por ejemplo, acaban resultando muy utiles en investigaciones forenses, aunque no siempre estan presentes, compensa mucho tener los metadatos en cuenta en la mayoria de casos.
+
+En resumidas cuentas, antes de usar una herramienta u otra, primero debemos tener claro cuales han sido los eventos sucedidos y el resultado del ataque en si, debido a esto y a la necesidad de inspeccionar potencialmente el sistema entero, para considerarse un analista forense y poder hacer el proceso de forma adecuada y prfoesional, se requieren ciertas habilidades y conocimientos, sim embargo, se pueden realizar analisis simples e incluso automatizarlos, de tal manera, que no se requeriria la intervencion de un especialista en ciberseguridad, ya que puede tratarse de un caso sencillo o que se este utilizando un software analizador, el cual analiza el sistema en busca de walware o infiltraciones en el sistema y es capaz de elaborar conclusiones e incluso informes oficiales, siempre y cuando se trate de casos simples.
 ### Herramientas para
 
 ## Aalisis de la linea de tiempo (TimeStamp)
