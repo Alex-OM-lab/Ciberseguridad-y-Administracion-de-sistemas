@@ -39,7 +39,6 @@ El proposito de la informatica forense es investigar y resolver situaciones rela
 Ademas, tambien podemos destacar los siguientes objetivos:
 
 ## Objetivos de la informatica forense
-
 basandonos en esta definición, podemos dividir los objetivos en los siguientes puntos.
 ### 1. Identificacion de evidencias digitales
 Para comenzar, el primer objetivo es esclarecer la situacion identificando la amenaza o evidencia digital necesaria para llegar a una conclusion oficial.
@@ -51,10 +50,15 @@ A la hora de preservar las evidencias se debe hacer de forma adecuada mediante e
 para mas informacion sobre estas herramientas visita: zzzz
 ### 4. Presentar un informe de conclusiones y recomendaciones
 A la hora de presentar las conclusiones, un analista forense debe presentar un tipo de documento en concreto en el que consta las siguientes partes:
-Partes de un informe de conclusiones
-
+###Partes de un informe de conclusiones
+1.
+2.
+3.
+4.
+5.
 ## Proceso para reaalizar un analisis forense
-Apartir de este punto, tendremos que tener conocimientos especificos y cierto control sobre las herrmaientas implementadas
+> [!IMPORTANT]
+> Apartir de este punto, tendremos que tener conocimientos especificos y cierto control sobre las herrmaientas implementadas
 Para realizar un analisis forense tendremos que seguir una serie de puntos clave, los cuales son los siguientes:
 1. Estudiar el caso y determinar el rango de afección
 2. recopilar, preservar y esclareder las evidencias del caso
@@ -64,26 +68,23 @@ A continuacion se espeficica como re realiza de forma practica cada etapa:
 ### Estudiar el caso y determinar la afección
 para comenzar, en la recoleccion de evidencias suelen usarse herramientas como x o x, los cuales recopilan logs y x respegtivamente, como podemos ver, consiste esencialmente, en investigar cuidadosamente el sistema en si en busca de registros o elementos sospechosos como pueden ser: lineas de codigo maliciosas, correos o archivos infectados, perdida de informacion repentina o metadatos.
 
-Para mas informacion sobre los metadatos visita el siguiente enlace "". Pero en resumen, son rastros de datos que deja por ejemplo una foto, pudiendo ser la fecha, ubicacion, o modelo de camara, por ejemplo, acaban resultando muy utiles en investigaciones forenses, aunque no siempre estan presentes, compensa mucho tener los metadatos en cuenta en la mayoria de casos.
+Para mas informacion sobre los metadatos visita el siguiente enlace "", una pagina web con información sobre x en epecifico. Pero en resumen, son rastros de datos que dejan diferentes archivos al usarlos o ser generados, por ejemplo una foto, pudiendo ser la fecha, ubicacion, o modelo de camara, por ejemplo, acaban resultando muy utiles en investigaciones forenses, aunque no siempre estan presentes, pero compensa mucho tener los metadatos en cuenta en la mayoria de casos.
 
 En resumidas cuentas, antes de usar una herramienta u otra, primero debemos tener claro cuales han sido los eventos sucedidos y el resultado del ataque en si, debido a esto y a la necesidad de inspeccionar potencialmente el sistema entero, para considerarse un analista forense y poder hacer el proceso de forma adecuada y prfoesional, se requieren ciertas habilidades y conocimientos, sim embargo, se pueden realizar analisis simples e incluso automatizarlos, de tal manera, que no se requeriria la intervencion de un especialista en ciberseguridad, ya que puede tratarse de un caso sencillo o que se este utilizando un software analizador, el cual analiza el sistema en busca de walware o infiltraciones en el sistema y es capaz de elaborar conclusiones e incluso informes oficiales, siempre y cuando se trate de casos simples.
-### Herramientas para
 
 ## Aalisis de la linea de tiempo (TimeStamp)
 importancia del 
 
-### Herramientas para
-
 ## Analisis de la memoria volatil
 
-### Herramientas para
 
 ## Analisis de logs
 
 ### Tipos de logs y fuentes
 
-### Herramientas para
+### Herramientas para todo lo de arriba
 
+## Detalles a tener en cuenta
 
 A partir de este punto, necesitaremos conocimientos extensos y concretos sobre multiples aspegtos de la informatica, trataremos unos ejemplos para que se aprecie a que me refiero concretamente.
 caso 1, las credenciales de un trabajador an sido filtradas mediante fishing, es decir, tratar de engañar al trabajador mediante correos electronicos, llamadas u otras formas de ingeñeria social con el fin de obtener las credenciales de acceso al servidor de la empresa, acto seguido, se uso este acceso para copiar la base de datos de la empresa y posteriormente eliminarla por completo, provocando grandes perdidas y daños graves a la empresa, por ultimo el ataque termina con una amenaza realizada por el ciberatacante, en la cual, nos exige una suma de dinero o nuestra base de datos con informacion privada de nuestros clientes sera publica o vendida a uan entidad muy interesada en esta información.
