@@ -1,10 +1,12 @@
 # <p align="center">Informatica forense</p>
 Buenas! Antes de empezar con este apartado, recomiendo ver primero el apartado de ciberseguridad conceptos y csoas, ya que es una introduccion que te ayudará a en tender mejor los conceptos de cada apartado, ademas de mencionar que toda la información que vea en estos repositorios procede del curso de especializacion que he realizado en ciberseguridad, su obtetivo es plasmar conocimientos y asegurarme de que permanencen aqui, por si en algun momento necesito regresar a esta información.
 Dicho esto, en este apartado explico que es la informatica forese, como funciona y como se realiza un analisis forense completo, ademas de especifciar que herramientas se usan y como se emplean.
+Al final del documento se especifican 3 casos distintos con los que se realizaran 3 analisis forenses distintos. "NEGRITA"
 
 ## ¿Que es la informatica forense?
 Para comenzar, la informatica forense, tambien llamada analisis forense digital, es una disciplina enfocada en la identificacion, preservacion, analisis y presentación de evidencias digitales, comunemente se enfoncan en casos legales y situaciones realicionada a la seguridad de la informacion.
-el proposito de la informatica forense es investigar y resolver situaciones relacionadas a ciberdelitos o ataqus informaticos, asi como analizar y responder de manera adecuada a los delitos y violaciones de seguridad que ocurren en el entorno digital.
+#
+El proposito de la informatica forense es investigar y resolver situaciones relacionadas a ciberdelitos o ataqus informaticos, asi como analizar y responder de manera adecuada a los delitos y violaciones de seguridad que ocurren en el entorno digital.
 Ademas, tambien podemos destacar los siguientes objetivos:
 ## Objetivos de la informatica forense
 basandonos en esta definición, podemos dividir los objetivos en los siguientes puntos.
