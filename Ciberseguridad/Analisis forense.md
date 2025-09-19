@@ -3,7 +3,7 @@ Buenas! Antes de empezar con este apartado, recomiendo ver primero el apartado d
 
 Dicho esto, en este apartado explico que es la informatica forese, como funciona y como se realiza un analisis forense completo, ademas de especifciar que herramientas se usan y como se emplean.
 
-<h3>Al final del documento se especifican 3 casos distintos con los que se realizaran 3 analisis forenses distintos.</h3>
+<h3>Al final del documento se especifican 3 casos distintos con los que se realizan 3 analisis forenses distintos.</h3>
 
 ## ¿Que es la informatica forense?
 Para comenzar, la informatica forense, tambien llamada analisis forense digital, es una disciplina enfocada en la identificacion, preservacion, analisis y presentación de evidencias digitales, comunemente se enfoncan en casos legales y situaciones realicionada a la seguridad de la informacion.
