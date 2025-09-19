@@ -1,4 +1,4 @@
-# <p align="center">Informatica forense</p>
+# <p align="center">Informática forense</p>
 Buenas! Antes de empezar con este apartado, recomiendo ver primero el apartado de ciberseguridad conceptos y csoas, ya que es una introduccion que te ayudará a en tender mejor los conceptos de cada apartado, ademas de mencionar que toda la información que vea en estos repositorios procede del curso de especializacion que he realizado en ciberseguridad, su obtetivo es plasmar conocimientos y asegurarme de que permanencen aqui, por si en algun momento necesito regresar a esta información.
 
 Dicho esto, en este apartado explico que es la informatica forese, como funciona y como se realiza un analisis forense completo, ademas de especifciar que herramientas se usan y como se deben empelar.
