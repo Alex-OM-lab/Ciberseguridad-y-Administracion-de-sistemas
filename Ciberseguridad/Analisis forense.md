@@ -59,7 +59,8 @@ A la hora de presentar las conclusiones, un analista forense debe presentar un t
 ## Proceso para reaalizar un analisis forense
 > [!IMPORTANT]
 > Apartir de este punto, tendremos que tener conocimientos especificos y cierto control sobre las herrmaientas implementadas
-Para realizar un analisis forense tendremos que seguir una serie de puntos clave, los cuales son los siguientes:
+Para realizar un analisis forense efectivo.
+Tendremos que seguir una serie de puntos clave, los cuales son los siguientes:
 1. Estudiar el caso y determinar el rango de afección
 2. recopilar, preservar y esclareder las evidencias del caso
 3. elaborar un informe oficial
