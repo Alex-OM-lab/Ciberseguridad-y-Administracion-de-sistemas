@@ -10,21 +10,22 @@ Comenzaremos con la parte teorica del proceso y los objetivos y continuaremos co
 ## 📑 Índice
 
 1. [¿Qué es la informática forense?](#que-es-la-informatica-forense)
+   - [objetivos de la informatica forense](#objetivos-de-la-informatica-forense)
    - [Identificación de evidencias digitales](#identificacion-de-evidencias-digitales)
    - [Recopilación de evidencias](#recopilacion-de-evidencias)
    - [Preservar la integridad de las evidencias](#preservar-la-integridad-de-las-evidencias)
    - [Presentar un informe de conclusiones y recomendaciones](#presentar-un-informe-de-conclusiones-y-recomendaciones)
 
-2. [Proceso para realizar un análisis forense](#proceso-para-reaalizar-un-analisis-forense)
+3. [Proceso para realizar un análisis forense](#proceso-para-reaalizar-un-analisis-forense)
    - [Herramientas para](#herramientas-para)
 
-3. [Análisis de la línea de tiempo (TimeStamp)](#aalisis-de-la-linea-de-tiempo-timestamp)
+4. [Análisis de la línea de tiempo (TimeStamp)](#aalisis-de-la-linea-de-tiempo-timestamp)
    - [Herramientas para](#herramientas-para-1)
 
-4. [Análisis de la memoria volátil](#analisis-de-la-memoria-volatil)
+5. [Análisis de la memoria volátil](#analisis-de-la-memoria-volatil)
    - [Herramientas para](#herramientas-para-2)
 
-5. [Análisis de logs](#analisis-de-logs)
+6. [Análisis de logs](#analisis-de-logs)
    - [Tipos de logs y fuentes](#tipos-de-logs-y-fuentes)
    - [Herramientas para](#herramientas-para-3)
   
@@ -59,6 +60,8 @@ Comenzaremos con la parte teorica del proceso y los objetivos y continuaremos co
 Para comenzar, la informatica forense, tambien llamada analisis forense digital, es una disciplina enfocada en la identificacion, preservacion, analisis y presentación de evidencias digitales, comunemente se enfoncan en casos legales y situaciones realicionada a la seguridad de la informacion.
 El proposito de la informatica forense es investigar y resolver situaciones relacionadas a ciberdelitos o ataqus informaticos, asi como analizar y responder de manera adecuada a los delitos y violaciones de seguridad que ocurren en el entorno digital.
 Ademas, tambien podemos destacar los siguientes objetivos:
+
+## objetivos de la informatica forense
 
 basandonos en esta definición, podemos dividir los objetivos en los siguientes puntos.
 ### Identificacion de evidencias digitales
