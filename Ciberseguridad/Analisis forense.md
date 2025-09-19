@@ -64,15 +64,15 @@ Ademas, tambien podemos destacar los siguientes objetivos:
 ## Objetivos de la informatica forense
 
 basandonos en esta definición, podemos dividir los objetivos en los siguientes puntos.
-### Identificacion de evidencias digitales
+### 1. Identificacion de evidencias digitales
 Para comenzar, el primer objetivo es esclarecer la situacion identificando la amenaza o evidencia digital necesaria para llegar a una conclusion oficial.
-### Recopilacion de evidencias
+### 2. Recopilacion de evidencias
 A continuacion se debe recopilar las evidencias detectadas lo que nos permitira identifciar las acciones realizadas y los posibles responsables.
 Para realizar una recopilacion de evidencias de debe esclarecer la magnitud o el rango del inidente.
-### Preservar la integridad de las evidencias
+### 3. Preservar la integridad de las evidencias
 A la hora de preservar las evidencias se debe hacer de forma adecuada mediante el empleo de herramiantas de software forense como x o x, las cuales son herramientas oficializadas con las que se pueden a llegar a conclusiones validas en un juicio.
 para mas informacion sobre estas herramientas visita: zzzz
-### Presentar un informe de conclusiones y recomendaciones
+### 4. Presentar un informe de conclusiones y recomendaciones
 A la hora de presentar las conclusiones, un analista forense debe presentar un tipo de documento en concreto en el que consta las siguientes partes:
 Partes de un informe de conclusiones
 
