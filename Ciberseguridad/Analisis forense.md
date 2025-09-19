@@ -17,20 +17,20 @@ Comenzaremos con la parte teorica del proceso y los objetivos y continuaremos co
    - [Preservar la integridad de las evidencias](#preservar-la-integridad-de-las-evidencias)
    - [Presentar un informe de conclusiones y recomendaciones](#presentar-un-informe-de-conclusiones-y-recomendaciones)
      
-3. [Proceso para realizar un análisis forense](#proceso-para-reaalizar-un-analisis-forense)
+2. [Proceso para realizar un análisis forense](#proceso-para-reaalizar-un-analisis-forense)
    
-5. [Análisis de la línea de tiempo (TimeStamp)](#aalisis-de-la-linea-de-tiempo-timestamp)
+3. [Análisis de la línea de tiempo (TimeStamp)](#aalisis-de-la-linea-de-tiempo-timestamp)
    
-7. [Análisis de la memoria volátil](#analisis-de-la-memoria-volatil)
+4. [Análisis de la memoria volátil](#analisis-de-la-memoria-volatil)
 
-8. herramientas y software forense
-9. [Análisis de logs](#analisis-de-logs)
+5. herramientas y software forense
+6. [Análisis de logs](#analisis-de-logs)
    - [Tipos de logs y fuentes](#tipos-de-logs-y-fuentes)
-10. Casos practicos
+7. Casos practicos
    - caso 1 
    - caso 2 
    - caso 3 
-11. detalles ha tener en cuenta
+8. detalles ha tener en cuenta
 
 ## ¿Que es la informatica forense?
 Para comenzar, la informatica forense, tambien llamada analisis forense digital, es una disciplina enfocada en la identificacion, preservacion, analisis y presentación de evidencias digitales, comunemente se enfoncan en casos legales y situaciones realicionada a la seguridad de la informacion.
