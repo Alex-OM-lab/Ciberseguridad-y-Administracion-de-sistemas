@@ -56,7 +56,7 @@ A la hora de presentar las conclusiones, un analista forense debe presentar un t
 3.
 4.
 5.
-## Proceso para reaalizar un analisis forense
+## Proceso para realizar un analisis forense
 > [!IMPORTANT]
 > Apartir de este punto, tendremos que tener conocimientos especificos y cierto control sobre las herrmaientas implementadas
 Para realizar un analisis forense efectivo.
