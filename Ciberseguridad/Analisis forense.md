@@ -35,7 +35,7 @@ Comenzaremos con la parte teorica del proceso y los objetivos y continuaremos co
 ## ¿Que es la informatica forense?
 Para comenzar, la informatica forense, tambien llamada analisis forense digital, es una disciplina enfocada en la identificacion, preservacion, analisis y presentación de evidencias digitales, comunemente se enfoncan en casos legales y situaciones realicionada a la seguridad de la informacion.
 
-El proposito de la informatica forense es investigar y resolver situaciones relacionadas a ciberdelitos o ataqus informaticos, asi como analizar y responder de manera adecuada a los delitos y violaciones de seguridad que ocurren en el entorno digital.
+El proposito de la informatica forense es investigar y resolver situaciones relacionadas a ciberdelitos o ataques informaticos, asi como analizar y responder de manera adecuada a los delitos y violaciones de seguridad que ocurren en el entorno digital.
 Ademas, tambien podemos destacar los siguientes objetivos:
 
 ## Objetivos de la informatica forense
@@ -61,6 +61,7 @@ Para realizar un analisis forense tendremos que seguir una serie de puntos clave
 3. elaborar un informe oficial
 
 A continuacion se espeficica como re realiza de forma practica cada etapa:
+### Estudiar el caso y determinar la afección
 para comenzar, en la recoleccion de evidencias suelen usarse herramientas como x o x, los cuales recopilan logs y x respegtivamente, como podemos ver, consiste esencialmente, en investigar cuidadosamente el sistema en si en busca de registros o elementos sospechosos como pueden ser: lineas de codigo maliciosas, correos o archivos infectados, perdida de informacion repentina o metadatos.
 
 Para mas informacion sobre los metadatos visita el siguiente enlace "". Pero en resumen, son rastros de datos que deja por ejemplo una foto, pudiendo ser la fecha, ubicacion, o modelo de camara, por ejemplo, acaban resultando muy utiles en investigaciones forenses, aunque no siempre estan presentes, compensa mucho tener los metadatos en cuenta en la mayoria de casos.
