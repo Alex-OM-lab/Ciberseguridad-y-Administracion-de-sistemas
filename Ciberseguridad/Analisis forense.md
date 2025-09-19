@@ -50,13 +50,13 @@ A la hora de preservar las evidencias se debe hacer de forma adecuada mediante e
 para mas informacion sobre estas herramientas visita: zzzz
 ### 4. Presentar un informe de conclusiones y recomendaciones
 A la hora de presentar las conclusiones, un analista forense debe presentar un tipo de documento en concreto en el que consta las siguientes partes:
-### Partes de un informe de conclusiones
+
+###Partes de un informe de conclusiones
 1.
 2.
 3.
 4.
 5.
-
 ## Proceso para realizar un analisis forense
 > [!IMPORTANT]
 > Apartir de este punto, tendremos que tener conocimientos especificos y cierto control sobre las herrmaientas implementadas
@@ -96,3 +96,4 @@ En este caso, tendriamos que comenzar con una investigación en el sistema para 
 
 En cualquier caso, en este caso se detectaria un acceso al sistema con las credenciales de este trabajador y, acontinuacion, se realizan las acciones que hemos planteado, realizar una copia y luego borrar por completo la base de datos, estos registros serian nuestro objetivo, ademas, se consideran pruebas importantes y debe 
 ## Enlaces de interes 
+
