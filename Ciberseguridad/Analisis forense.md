@@ -52,11 +52,13 @@ para mas informacion sobre estas herramientas visita: zzzz
 A la hora de presentar las conclusiones, un analista forense debe presentar un tipo de documento en concreto en el que consta las siguientes partes:
 
 ###Partes de un informe de conclusiones
+
 1.
 2.
 3.
 4.
 5.
+
 ## Proceso para realizar un analisis forense
 > [!IMPORTANT]
 > Apartir de este punto, tendremos que tener conocimientos especificos y cierto control sobre las herrmaientas implementadas
