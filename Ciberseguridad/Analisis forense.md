@@ -3,7 +3,7 @@ Buenas! Antes de empezar con este apartado, recomiendo ver primero el apartado d
 
 Dicho esto, en este apartado explico que es la informatica forese, como funciona y como se realiza un analisis forense completo, ademas de especifciar que herramientas se usan y como se emplean.
 > [!NOTE]
-> Al final del documento se especifican 3 casos distintos con los que se realizan 3 analisis forenses distintos.
+> <h3>Al final del documento se especifican 3 casos distintos con los que se realizan 3 analisis forenses distintos.</h3>
 
 
 ## ¿Que es la informatica forense?
