@@ -39,7 +39,7 @@ Comenzaremos con la parte teórica (proceso y objetivos), y continuaremos con ca
 ---
 
 ## ¿Qué es la informática forense?
-La **informática forense** (análisis forense digital) es la disciplina enfocada en la **identificación, preservación, análisis y presentación** de evidencias digitales. Se aplica en contextos legales y en la respuesta a incidentes de seguridad de la información.
+La **informática forense** , tambien llamado análisis forense digital es la disciplina enfocada en la **identificación, preservación, análisis y presentación** de evidencias digitales. Se aplica en contextos legales y en la respuesta a incidentes de seguridad de la información.
 
 El propósito es investigar incidentes (ciberdelitos, intrusiones, fugas de datos) y obtener evidencias válidas que permitan entender qué pasó, quién pudo hacerlo y cómo mitigar o remediar la situación.
 
@@ -47,7 +47,7 @@ El propósito es investigar incidentes (ciberdelitos, intrusiones, fugas de dato
 Basándonos en la definición anterior, los objetivos principales son:
 
 #### 1. Identificación de evidencias digitales
-Determinar qué artefactos (archivos, registros, conexiones, metadatos) son relevantes para el caso y dónde se localizan.
+Determinar qué elementos (archivos, registros, conexiones, metadatos) son relevantes para el caso y dónde se localizan.
 
 #### 2. Recopilación de evidencias
 Recolectar las evidencias de forma controlada (imágenes forenses, dumps de memoria, logs exportados) para que no se modifiquen los datos originales.
@@ -194,3 +194,9 @@ Antes de usar cualquier herramienta, clarifica:
 - Guías y documentación general sobre análisis forense (PLASO / Timesketch).  
 - Repositorios y cheatsheets de IOCs.  
 - Foros y comunidades (DFIR Slack / Reddit / Stack Exchange).
+
+<p align="center">
+  <img src="https://undraw.co/api/illustrations/analysis" width="400"/>
+  <br>
+  <i>Visualización de análisis digital</i>
+</p>
