@@ -1,45 +1,48 @@
-# <p align="center">Informatica forense</p>
-<p style="font-family: Arial; font-size:40px;">
-<font face="Arial" size="25">Antes de empezar con este apartado, recomiendo ver primero el apartado de ciberseguridad conceptos y csoas, ya que es una introduccion que te ayudará a en tender mejor los conceptos de cada apartado, ademas de mencionar que toda la información que vea en estos repositorios procede del curso de especializacion que he realizado en ciberseguridad.</font>
-</p>
+¡Buenas! En este apartado vamos a ver cómo suelen producirse compromisos a usuarios "comunes" —es decir, a ti y a mí—, no a directivos o grandes compañías.
 
-## ¿Que es la informatica forense?
-Para comenzar, la informatica forense, tambien llamada analisis forense digital, es una disciplina enfocada en la identificacion, preservacion, analiss y presentacion de evidencias digitales, comunemente se enfoncan en casoss legales y situaciones realicionada a la seguridad de la informacion.
-el proposito de la informatica forense es investigar y resolver situaciones relacionadas a ciberdelitos o ataqus informaticos, asi como analizar y responder de manera adecuada a los delitos y violaciones de seguridad que ocurren en el entorno digital.
-Ademas, tambien podemos destacar los siguientes objetivos:
-## Objetivos de la informatica forense
-basandonos en esta definición, podemos dividir los objetivos en los siguientes puntos.
-### Identificacion de evidencias digitales
-Para comenzar, el primer objetivo es esclarecer la situacion identificando la amenaza o evidencia digital necesaria para llegar a una conclusion oficial.
-### Recopilacion de evidencias
-A continuacion se debe recopilar las evidencias detectadas lo que nos permitira identifciar las acciones realizadas y los posibles responsables.
-Para realizar una recopilacion de evidencias de debe esclarecer la magnitud o el rango del inidente.
-### Preservar la integridad de las evidencias
-A la hora de preservar las evidencias se debe hacer de forma adecuada mediante el empleo de herramiantas de software forense como x o x, las cuales son herramientas oficializadas con las que se pueden a llegar a conclusiones validas en un juicio.
-para mas informacion sobre estas herramientas visita: zzzz
-### Presentar un informe de conclusiones y recomendaciones
-A la hora de presentar las conclusiones, un analista forense debe presentar un tipo de documento en concreto en el que consta las siguientes partes:
+Si te interesa el caso de empresas, puedes verlo en el apartado correspondiente.
 
-las cuales se explican a continuación:
+Dicho esto, ¡comencemos!
 
-## Proceso para reaalizar un analisis forense
+## Usuarios no prioritarios
+Normalmente un atacante no te elige personalmente como objetivo a menos que manejes información muy valiosa, seas miembro de grupos influyentes, tengas mucho capital o estés en una posición sensible. Si no hay un recurso de interés claro, es menos probable que te conviertas en objetivo directo.
 
-### Herramientas para
+## ¿Cómo y cuándo nos hackean?
+Aunque no seas objetivo directo, hay mecanismos por los que tu información puede verse comprometida:
+- Venta masiva de bases de datos filtradas.  
+- Ingeniería social (p. ej. correos fraudulentos que buscan engañar al usuario).  
+- Reutilización de contraseñas en sitios poco importantes donde te registraste hace años.
 
-## Aalisis de la linea de tiempo (TimeStamp)
-importancia del 
+> **Nota:** no te quedes sólo con los títulos: cada incidente apunta a riesgos concretos (credenciales, datos personales, etc.).
 
-### Herramientas para
+A continuación, enumero las formas comunes en lenguaje coloquial (sin detalles operativos):
 
-## Analisis de la memoria volatil
+### 1. Servicios comprometidos que sirven contenido malicioso
+Hay casos donde páginas o aplicaciones legítimas han sido manipuladas para distribuir software no deseado. Esto puede ocurrir en sitios con poca protección o en versiones pirateadas de programas.
 
-### Herramientas para
+### 2. Robo de credenciales en redes y servicios
+Credenciales filtradas o reutilizadas permiten accesos no autorizados si los atacantes encuentran coincidencias.
 
-## Analisis de logs
+### 3. Sitios antiguos donde te registraste
+Un sitio "poco importante" donde te registraste puede ser la puerta de entrada si allí tienes la misma contraseña que usas en otros servicios.
 
-### Tipos de logs y fuentes
+## ¿Qué puedes hacer para protegerte?
+La gran mayoría de compromisos se evitan con medidas básicas y de sentido común. Reglas prácticas y no técnicas:
 
-### Herramientas para
+- Usa **contraseñas robustas y únicas** por servicio (ayuda mucho usar un gestor de contraseñas).  
+- Activa **autenticación multifactor (MFA)** en tus cuentas críticas.  
+- No abras adjuntos ni descargues archivos de remitentes sospechosos.  
+- Evita descargar software de fuentes no oficiales o pirateadas.  
+- Ten tus sistemas y aplicaciones actualizados.  
+- Revisa periódicamente si tu correo o cuenta aparece en listas de filtraciones (servicios como "Have I Been Pwned" o similares).  
+- Si recibes comunicaciones extrañas pidiendo dinero o acciones urgentes, desconfía y verifica por otra vía.
 
+## Recursos útiles (no operativos)
+- Comprobadores de filtraciones de correo (p. ej. haveibeenpwned.com).  
+- Gestores de contraseñas (1Password, Bitwarden, etc.).  
+- Herramientas o servicios para escanear archivos sospechosos (VirusTotal).  
+- Documentación sobre MFA y buenas prácticas de cuentas.
 
-## Enlaces de interes 
+## Conclusión
+Si te mueves por páginas oficiales, no descargas archivos de procedencia dudosa y sigues las recomendaciones básicas, tu riesgo como usuario “no prioritario” baja mucho.  
+Si manejas información sensible, o formas parte de una organización, revisa las secciones más técnicas del repositorio donde tratamos medidas avanzadas y respuesta a incidentes.
