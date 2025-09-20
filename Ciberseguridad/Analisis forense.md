@@ -194,9 +194,3 @@ Antes de usar cualquier herramienta, clarifica:
 - Guías y documentación general sobre análisis forense (PLASO / Timesketch).  
 - Repositorios y cheatsheets de IOCs.  
 - Foros y comunidades (DFIR Slack / Reddit / Stack Exchange).
-
-<p align="center">
-  <img src="https://undraw.co/api/illustrations/analysis" width="400"/>
-  <br>
-  <i>Visualización de análisis digital</i>
-</p>
