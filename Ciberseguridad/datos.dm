@@ -46,3 +46,4 @@ La gran mayoría de compromisos se evitan con medidas básicas y de sentido com�
 ## Conclusión
 Si te mueves por páginas oficiales, no descargas archivos de procedencia dudosa y sigues las recomendaciones básicas, tu riesgo como usuario “no prioritario” baja mucho.  
 Si manejas información sensible, o formas parte de una organización, revisa las secciones más técnicas del repositorio donde tratamos medidas avanzadas y respuesta a incidentes.
+
