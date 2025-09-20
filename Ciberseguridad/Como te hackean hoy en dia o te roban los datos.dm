@@ -1,33 +1,48 @@
-Buenas! en este apartado vamos a ver como se realizan hackeos a ciudadanos comunes, es decir, a ti y a mi, es decir, nada de directivos de grandes compañias o empresas en si.
+¡Buenas! En este apartado vamos a ver cómo suelen producirse compromisos a usuarios "comunes" —es decir, a ti y a mí—, no a directivos o grandes compañías.
 
-Si te interesa el caso de empresas puedes verlo en este apartado.
+Si te interesa el caso de empresas, puedes verlo en el apartado correspondiente.
 
-Dicho esto Comenzemos!
+Dicho esto, ¡comencemos!
 
-# como somos hackeados hoy en dia o como se filtra nuestra información
 ## Usuarios no prioritarios
-Lo primero que tenemos que tener en cuenta es que normalmente ningun ciberatacante nos va ha hacer su objetivo, a menos que manejemos informacion delicada, pertenezcamos a un grupo de inversores o accionistas, o tengamos una gran cantidad de capital, talvez miembro de un grupo politico.
+Normalmente un atacante no te elige personalmente como objetivo a menos que manejes información muy valiosa, seas miembro de grupos influyentes, tengas mucho capital o estés en una posición sensible. Si no hay un recurso de interés claro, es menos probable que te conviertas en objetivo directo.
 
-Como te puedes imaginar, si no tenemos algun recurso de valor, normalmente informacion, mas halla del dinero que tengamos en la cuenta del banco, no nos van a atacar porque no interesa a nivel de extraer algo de valor.
+## ¿Cómo y cuándo nos hackean?
+Aunque no seas objetivo directo, hay mecanismos por los que tu información puede verse comprometida:
+- Venta masiva de bases de datos filtradas.  
+- Ingeniería social (p. ej. correos fraudulentos que buscan engañar al usuario).  
+- Reutilización de contraseñas en sitios poco importantes donde te registraste hace años.
 
-## ¿Pero entonces como y cuando nos hackean?
-Vale una vez hemos especficado por que, si no tenemos recursos poderosos a nuestra disposicion, no deberiamos tener preocupacion alguna, sin embargo, ahora es cuando entran en juego la ingeñeria social como el pishing y las grandes bases de datos vendidas de forma ilegal, para saber mas informacion sobre estas bases de datos, te dejo aqui un enlace a un apartado donde explico como se venden de forma ilegal cientos de bases de datos con informacion de ciudadanos de multiples pasises.
-NOTE NO TE QUEDES SOLO CON LOS TITULOS, cada caso apunta a algo en concreto, ya sean tus credenciales o tus recursos
-Lo que ocurre cuando nos roban los datos o nos hackean es uno de estos casos:
+> **Nota:** no te quedes sólo con los títulos: cada incidente apunta a riesgos concretos (credenciales, datos personales, etc.).
 
-### Paginas "buenas" de pirateria: videojuegos series musica las hackean y las ponen a minar criptos como el launcher del lol y otros enlaces de noticias pc zombie tambien
+A continuación, enumero las formas comunes en lenguaje coloquial (sin detalles operativos):
 
-### robo de credenciales en redes sociales y paginas
+### 1. Servicios comprometidos que sirven contenido malicioso
+Hay casos donde páginas o aplicaciones legítimas han sido manipuladas para distribuir software no deseado. Esto puede ocurrir en sitios con poca protección o en versiones pirateadas de programas.
 
-### hackean una pagina "poco importante" en la que te registraste hace 3 años
+### 2. Robo de credenciales en redes y servicios
+Credenciales filtradas o reutilizadas permiten accesos no autorizados si los atacantes encuentran coincidencias.
 
-con esta info se relalizan 
+### 3. Sitios antiguos donde te registraste
+Un sitio "poco importante" donde te registraste puede ser la puerta de entrada si allí tienes la misma contraseña que usas en otros servicios.
 
-## ¿Pero entonces que hay que hacer para estar definitivamente protegido en linea?
-Pues de echo, es muy facil, veras, hoy en dia, intentar forzar un sistema para acceder mediante fuerza bruta no tiene sentido, capaz que un diccionario pueda sacarte  alguna contraseña de algun usuario que no tiene una contraseña ni medio decente, pero eso no quiere decir que sea vbiable.
-Mira, si hoy en dia, no pirateas y solo te mueves por paginas oficiales, y revisas 
-## por si acaso, algunos recursos que te salvaran en caso de duda
-virus total y analisis dinamico
-dicho esto, mi conclusion es, como he dicho antes, si te mantienes en el margen de paginas de pirateria y no descargar cualquier archivo que venga en un gmail o te metes en un Drive o Discord algo cuestionables en cuanto a la legalidad, basicamente estas bien, en principio no necesitas ni antivirus instalado, simplemente note hace falta.
-Hoy en dia solo se pueden realizar ataques con informacion previa, con la cual se personaliza un ataque, sin eso, simplemente serian intentos de estafa como hace 10 años, soy un rey de nosedonde o un familiar lejano mandame dinero y te mando mas, o estafas del estilo.
-Eso si, si por lo que sea, tienes información delicada, o eres membro de algun grupo importante, o tienes una empresa que quieres defender, te recomiendo este apartado ubicado en esta misma carpeta "Ciberseguridad" donde esta escrito este documento, echale un vistazo si te interesa.
+## ¿Qué puedes hacer para protegerte?
+La gran mayoría de compromisos se evitan con medidas básicas y de sentido común. Reglas prácticas y no técnicas:
+
+- Usa **contraseñas robustas y únicas** por servicio (ayuda mucho usar un gestor de contraseñas).  
+- Activa **autenticación multifactor (MFA)** en tus cuentas críticas.  
+- No abras adjuntos ni descargues archivos de remitentes sospechosos.  
+- Evita descargar software de fuentes no oficiales o pirateadas.  
+- Ten tus sistemas y aplicaciones actualizados.  
+- Revisa periódicamente si tu correo o cuenta aparece en listas de filtraciones (servicios como "Have I Been Pwned" o similares).  
+- Si recibes comunicaciones extrañas pidiendo dinero o acciones urgentes, desconfía y verifica por otra vía.
+
+## Recursos útiles (no operativos)
+- Comprobadores de filtraciones de correo (p. ej. haveibeenpwned.com).  
+- Gestores de contraseñas (1Password, Bitwarden, etc.).  
+- Herramientas o servicios para escanear archivos sospechosos (VirusTotal).  
+- Documentación sobre MFA y buenas prácticas de cuentas.
+
+## Conclusión
+Si te mueves por páginas oficiales, no descargas archivos de procedencia dudosa y sigues las recomendaciones básicas, tu riesgo como usuario “no prioritario” baja mucho.  
+Si manejas información sensible, o formas parte de una organización, revisa las secciones más técnicas del repositorio donde tratamos medidas avanzadas y respuesta a incidentes.
