@@ -1,1 +1,2 @@
-hlaa, mi primer archivo de base de datos es este, mirar primero para enternder porfa.
+## EN CONTRUCCION! 
+ACABO DE TERMIANR MIS ESTUDIOS Y TE TOMARA ALGO DE TIEMPO TERMINAR TODO EL CONTENIDO
